@@ -3,7 +3,7 @@
 _The player must hit the buzzer a specific number of times (for example, 10) within a set time limit. If they hit the buzzer the correct number of times before the timer runs out, they win a cookie. If they hit too few times, they lose and don't get the cookie._
 
 
-![Screenshot or Logo](https://imgur.com/RirtEgL)  
+![Screenshot or Logo](https://i.imgur.com/G1BaKhP.png)  
 
 ----------
 
