@@ -29,7 +29,7 @@ _The player must hit the buzzer a specific number of times (for example, 10) wit
 ## Attributions - till here
 
 -   [Background Image](https://www.istockphoto.com/photo/word-brand-on-blue-background-gm868866930-144875825)
--   [Emoji](https://excellence-it.co.uk/insights/bring-up-emoji-window/#:~:text=Press%20Windows%20key%20%2B%20.,emoji%20panel%20will%20pop%20up.)
+-   [W3schools](https://www.w3schools.com/)
 
 ----------
 
