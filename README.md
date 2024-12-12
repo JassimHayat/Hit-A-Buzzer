@@ -17,7 +17,7 @@ _The player must hit the buzzer a specific number of times (for example, 10) wit
 ### How to Play
 
 1. Timer is count down when Player kick "Start Game".
-2. Player must hit the buzzer more that 20 times to win a Cookies.
+2. Player must hit the buzzer more than 20 times to win a Cookies.
 3. The player lose when time is finish before compelete 20 hit.  
 
 ### Planning Materials
@@ -26,9 +26,9 @@ _The player must hit the buzzer a specific number of times (for example, 10) wit
 
 ----------
 
-## Attributions - till here
+## Attributions - 
 
--   [Background Image](https://www.istockphoto.com/photo/word-brand-on-blue-background-gm868866930-144875825)
+-   [Background Image](https://as2.ftcdn.net/v2/jpg/00/66/89/13/1000_F_66891364_DGcQnshA2iyLDBAZaH5QcWjgT9PCIwiM.jpg)
 -   [W3schools](https://www.w3schools.com/)
 
 ----------
