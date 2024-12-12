@@ -1,0 +1,122 @@
+/* basic style for body*/
+
+
+.container {
+    /*background-image: url(https://as2.ftcdn.net/v2/jpg/02/54/51/81/1000_F_254518169_wSAaMrQtkz7myCgDV6teBmWJLwaBfUfS.jpg);*/
+    background-image: url(https://as2.ftcdn.net/v2/jpg/00/66/89/13/1000_F_66891364_DGcQnshA2iyLDBAZaH5QcWjgT9PCIwiM.jpg);
+    color: #333;
+    background-color: #ffffff;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: cursive;
+    /* display: grid;
+    place-content: center;
+    justify-content: center;
+    align-items: center; */
+    /* margin: 0; */
+    /* height: 100%; */
+  
+}
+ 
+ 
+#title {
+    text-align: center;
+    left: 20%;    
+    /* margin-bottom: 100px; */
+    color:#2c3e50;
+}
+
+#game-title{
+    font-size: 50px;
+}
+
+#scoreTimer {
+    text-align: center;
+    left: 50%;
+    padding-top: 100px;
+    /* margin-bottom: 100px; */
+    color:#2c3e50;
+    font-size: 25px;
+}
+
+#divBuzzer {
+    text-align: center;
+    left: 50%;
+    padding-top: 50px;
+    /* margin-bottom: 100px; */
+    color:#2c3e50;
+}
+
+#divBuzzer {
+    text-align: center;
+    left: 50%;
+    padding-top: 50px;
+    /* margin-bottom: 100px; */
+    color:#2c3e50;
+    
+}
+
+#btns {
+    text-align: center;
+    /*left: 50%;*/
+    padding-top: 60px;
+    color:#2c3e50;   
+   
+}      
+
+#divPlayAgain{
+    padding: 5px;
+    font-size: 25px;
+    
+}
+
+#cookie-emoji {
+    font-size: 1.5em;
+    margin: 20px 0;
+}
+ 
+#buzzer-button {
+ 
+    padding: 40px;
+    border-radius:9%;
+    font-size: 25px;
+    background-color: #e0cc12; /* Green */
+    
+}
+
+ 
+#play-again-button {
+ 
+/* padding: 50px;*/
+font-size: 25px;
+width: 250px;
+height:40px ;
+background-color: #101dda; 
+  color: white;
+   
+}
+
+#start-game-button {
+
+   font-size: 25px;
+    width: 250px;
+    height:40px ;
+    transition-duration: 0.4s;
+    background-color: #101dda; 
+    color: white; 
+}
+
+#divMessage {
+    font-size: 25px;
+    text-align: center;
+    background-color: #e0cc12;
+}
+
+button:hover {
+    
+  color: rgb(0, 0, 0);
+}
+
+#mark{
+    background-color: #101dda;
+}
