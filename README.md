@@ -16,15 +16,17 @@ _The player must hit the buzzer a specific number of times (for example, 10) wit
 
 ### How to Play
 
-
+1. Timer is count down when Player kick "Start Game".
+2. Player must hit the buzzer more that 20 times to win a Cookies.
+3. The player lose when time is finish before compelete 20 hit.  
 
 ### Planning Materials
 
-[View Planning Documents](https://trello.com/b/l2GmDYRX/my-project1-hangman)
+[View Planning Documents]()
 
 ----------
 
-## Attributions
+## Attributions - till here
 
 -   [Background Image](https://www.istockphoto.com/photo/word-brand-on-blue-background-gm868866930-144875825)
 -   [Emoji](https://excellence-it.co.uk/insights/bring-up-emoji-window/#:~:text=Press%20Windows%20key%20%2B%20.,emoji%20panel%20will%20pop%20up.)
