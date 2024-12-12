@@ -12,13 +12,11 @@ _The player must hit the buzzer a specific number of times (for example, 10) wit
 ### Play the Game
 
 
-[Deployed Game Link](https://jassimhayat.github.io/Hit-A-Buzzer/) duoble check 
+[Deployed Game Link](https://jassimhayat.github.io/Hit-A-Buzzer/) 
 
 ### How to Play
 
-1. Players must hit the buzzer as quickly as possible 
-2. Player must hit the buzzer more that 20 time to win a Cookie.
-3. 
+
 
 ### Planning Materials
 
