@@ -42,3 +42,9 @@ _The player must hit the buzzer a specific number of times (for example, 10) wit
 ----------
 
 ## Next Steps
+
+_Outline planned features or improvements for your game._
+
+-   Add Sound Effects.
+-   Enhance some feature by add levels and display the results.
+  
